@@ -35,8 +35,5 @@ GitUpload Steps
 *	git init
 *	git add .
 *	git commit -m "This is comment"
-If Create New Remote Repo
 *	git remote add origin git@github.com:rauls26a/gitcmd.git
-*	git push origin main
-else
 *	git push -u origin main
