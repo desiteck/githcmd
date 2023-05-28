@@ -1,7 +1,8 @@
 git --version
 git config -l [ check current users detail ]
-git config --global user.email "tpsingh@protonmail.com" [set email]
-git config --global user.name "rahuls26a" [set username]
+git config --global user.email "desiteckofficial@gmail.com" [set email]
+git config --global user.name "desiteck" [set username]
+git config --global init.defaultBranch main
 git init [ initilze init ]
 git status [ current status of Git config in folder ]
 git add <filename> or git add . [stage file]
